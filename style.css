@@ -1,3 +1,12 @@
+
+body {
+  font-family: 'Libre Caslon Text', serif;
+}
+
+h1, h2, h3, h4,h5{
+  font-family: 'GFS Didot', serif;
+}
+
 .btn-outline-secondary {
   border-radius: 30px;
   padding: 7px 24px;
